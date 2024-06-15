@@ -1,4 +1,4 @@
-
+![310256535-1ef4d469-1c84-4c28-a008-68303d25727a](https://github.com/khuhshii/crypto-trading-application/assets/116865740/87f7f263-d615-4ab3-8957-231053879161)
 # Crypto Trading Application README
 
 ## Overview
@@ -41,37 +41,6 @@ This repository contains a crypto trading application developed using React, Typ
 
 4. Open your browser and navigate to `http://localhost:3000` to view the application.
 
-
-```
-crypto-trading-app/
-├── public/
-│   └── index.html
-├── src/
-│   ├── components/
-│   │   ├── StockList.tsx
-│   │   ├── StockItem.tsx
-│   │   └── ...
-│   ├── pages/
-│   │   ├── Dashboard.tsx
-│   │   ├── BuyStock.tsx
-│   │   └── SellStock.tsx
-│   ├── store/
-│   │   ├── actions/
-│   │   │   ├── stockActions.ts
-│   │   │   └── ...
-│   │   ├── reducers/
-│   │   │   ├── stockReducers.ts
-│   │   │   └── ...
-│   │   └── index.ts
-│   ├── App.tsx
-│   ├── index.tsx
-│   ├── index.css
-│   └── ...
-├── package.json
-├── tsconfig.json
-└── README.md
-```
-
 ## Development Guidelines
 
 - Ensure all API interactions are handled asynchronously using Redux Thunk.
@@ -89,6 +58,16 @@ npm run build
 This will create an optimized build of your application in the `dist/` directory ready for deployment.
 
 ## Images
+![310256535-1ef4d469-1c84-4c28-a008-68303d25727a](https://github.com/khuhshii/crypto-trading-application/assets/116865740/0daabb26-dfd3-43c7-9c22-98b87f55d315)
+
+![310256541-4fbdeb23-921a-47cf-bda0-89309dbaf44c](https://github.com/khuhshii/crypto-trading-application/assets/116865740/e2c5c5ff-3b37-47d7-a642-8e6687783297)
+
+![310256556-9cb5c41c-c14c-436b-bc91-2ff665aec050 (1)](https://github.com/khuhshii/crypto-trading-application/assets/116865740/c769f6e7-2250-400b-8e48-affe80fce152)
+
+![310256567-a71e52f6-4f4f-4fed-be3d-a1ec0f23cc30](https://github.com/khuhshii/crypto-trading-application/assets/116865740/1a60bd76-9be7-4faa-a40e-647fb9301d9f)
+
+![310263210-e4bd8d19-5ab6-4ae2-9b5c-9c16400d61d8](https://github.com/khuhshii/crypto-trading-application/assets/116865740/88573489-fed7-4866-be98-475bd047cd84)
+
 ## Contributing
 
 Contributions are welcome! Fork the repository and submit a pull request for any improvements or fixes.
