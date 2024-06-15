@@ -1,4 +1,3 @@
-![310256535-1ef4d469-1c84-4c28-a008-68303d25727a](https://github.com/khuhshii/crypto-trading-application/assets/116865740/87f7f263-d615-4ab3-8957-231053879161)
 # Crypto Trading Application README
 
 ## Overview
