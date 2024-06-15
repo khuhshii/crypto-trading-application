@@ -1,4 +1,4 @@
-# Crypto Trading Application README
+# Crypto Trading Application
 
 ## Overview
 
